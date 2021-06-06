@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Generated
+  - Movet
+  - Cell
+  - Monster
+  - NoMovet
+  - Exit
+  - Gold
+  - Key
+  - Floor
+  - Top
+  - Map
+  - Treasure
   layers:
   - Default
   - TransparentFX
